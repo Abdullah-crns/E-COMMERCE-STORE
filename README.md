@@ -37,23 +37,23 @@ You can open this file directly in your preferred web browser to view the websit
 
 📂 Project Structure
 AZ-CURTAINS/<br>
-├── .vscode/                    # VS Code configuration files <br>
-├── .github/                    # GitHub-related files (workflows, etc.) <br>
-├── dist/                       # Distribution files (build outputs) <br>
-├── node_modules/               # Installed npm dependencies <br>
-├── public/                     # Static files for the app <br>
-├── src/                        # Source code of the application <br>
-│   ├── assets/                 # Images, fonts, and other static assets <br>
-│   ├── Categories/             # Category-related components or logic <br>
-│   ├── Components/             # Reusable UI components <br>
+├── .vscode/    <br>
+├── .github/ <br>
+├── dist/             <br>
+├── node_modules/                <br>
+├── public/                    <br>
+├── src/                      <br>
+│   ├── assets/          <br>
+│   ├── Categories/       <br>
+│   ├── Components/        <br>
 │   │   ├── Body/ <br>
 │   │   ├── Carousels/<br>
 │   │   ├── Footer/ <br>
 │   │   ├── LandingPage/ <br>
 │   │   ├── Middle/<br>
 │   │   └── Navbar/<br>
-│   ├── Menu/                   # Menu-related components or logic<br>
-│   ├── PAGE/                   # Individual pages for specific content<br>
+│   ├── Menu/                 <br>
+│   ├── PAGE/                <br>
 │   │   ├── AboutUs/<br>
 │   │   ├── Accessories/<br>
 │   │   ├── Bedding/<br>
@@ -63,18 +63,18 @@ AZ-CURTAINS/<br>
 │   │   ├── ReadyMadeCurtains/<br>
 │   │   ├── Shop/<br>
 │   │   └── Wallpapers/<br>
-│   ├── Pages/                  # Likely additional pages or routing logic<br>
-│   ├── App.css                 # Global styles for the application<br>
-│   ├── App.jsx                 # Main app component<br>
-│   ├── index.css               # Index-level CSS<br>
-│   ├── main.jsx                # Entry point for React application<br>
-├── .gitignore                  # Git ignore file<br>
-├── eslint.config.js            # ESLint configuration<br>
-├── index.html                  # Main HTML file<br>
-├── package-lock.json           # Dependency lock file for npm<br>
-├── package.json                # Project metadata and dependencies<br>
-├── README.md                   # Project documentation<br>
-└── vite.config.js              # Vite configuration file<br>
+│   ├── Pages/              <br>
+│   ├── App.css               <br>
+│   ├── App.jsx               <br>
+│   ├── index.css            <br>
+│   ├── main.jsx             <br>
+├── .gitignore                <br>
+├── eslint.config.js         <br>
+├── index.html             <br>
+├── package-lock.json        <br>
+├── package.json           <br>
+├── README.md         <br>
+└── vite.config.js          <br>
 
 Hosting
 the hosting of this project is done with gh pages and a custom domain 
