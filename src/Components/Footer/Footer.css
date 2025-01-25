@@ -1,0 +1,42 @@
+.footer-block{
+    height: 90%;
+    width: 100%;
+}
+.footer-block h3{
+    text-align: start !important;
+    width: 100% !important;
+}
+.footer-block p{
+    font-size: 18px;
+    width: 100%;
+    margin-top: 20px;
+    text-align: start;
+    color: black;
+}
+@media screen and (max-width: 768px){
+    .contact-us-text{
+        text-align: center;
+    }
+    
+}
+/* Changed */
+@media screen and (max-width: 468px){
+    .footer-block h3{
+        font-size: 40px;
+        width: 100%;
+        margin-top: 20px;
+        text-align: center !important;
+    }
+    .footer-block p{
+        font-size: 16px;
+        width: 100%;
+        margin-top: 20px;
+        text-align: center !important;
+    }
+    .footer-logo{
+        width: 100%;
+        height: 80%;
+    }
+    
+}
+/* Changed */
