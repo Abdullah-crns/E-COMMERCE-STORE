@@ -36,45 +36,45 @@ Open the index.html File:
 You can open this file directly in your preferred web browser to view the website locally.
 
 📂 Project Structure
-AZ-CURTAINS/
-├── .vscode/                    # VS Code configuration files
-├── .github/                    # GitHub-related files (workflows, etc.)
-├── dist/                       # Distribution files (build outputs)
-├── node_modules/               # Installed npm dependencies
-├── public/                     # Static files for the app
-├── src/                        # Source code of the application
-│   ├── assets/                 # Images, fonts, and other static assets
-│   ├── Categories/             # Category-related components or logic
-│   ├── Components/             # Reusable UI components
-│   │   ├── Body/
-│   │   ├── Carousels/
-│   │   ├── Footer/
-│   │   ├── LandingPage/
-│   │   ├── Middle/
-│   │   └── Navbar/
-│   ├── Menu/                   # Menu-related components or logic
-│   ├── PAGE/                   # Individual pages for specific content
-│   │   ├── AboutUs/
-│   │   ├── Accessories/
-│   │   ├── Bedding/
-│   │   ├── Blinds/
-│   │   ├── ContactUs/
-│   │   ├── Curtains/
-│   │   ├── ReadyMadeCurtains/
-│   │   ├── Shop/
-│   │   └── Wallpapers/
-│   ├── Pages/                  # Likely additional pages or routing logic
-│   ├── App.css                 # Global styles for the application
-│   ├── App.jsx                 # Main app component
-│   ├── index.css               # Index-level CSS
-│   ├── main.jsx                # Entry point for React application
-├── .gitignore                  # Git ignore file
-├── eslint.config.js            # ESLint configuration
-├── index.html                  # Main HTML file
-├── package-lock.json           # Dependency lock file for npm
-├── package.json                # Project metadata and dependencies
-├── README.md                   # Project documentation
-└── vite.config.js              # Vite configuration file
+AZ-CURTAINS/<br>
+├── .vscode/                    # VS Code configuration files <br>
+├── .github/                    # GitHub-related files (workflows, etc.) <br>
+├── dist/                       # Distribution files (build outputs) <br>
+├── node_modules/               # Installed npm dependencies <br>
+├── public/                     # Static files for the app <br>
+├── src/                        # Source code of the application <br>
+│   ├── assets/                 # Images, fonts, and other static assets <br>
+│   ├── Categories/             # Category-related components or logic <br>
+│   ├── Components/             # Reusable UI components <br>
+│   │   ├── Body/ <br>
+│   │   ├── Carousels/<br>
+│   │   ├── Footer/ <br>
+│   │   ├── LandingPage/ <br>
+│   │   ├── Middle/<br>
+│   │   └── Navbar/<br>
+│   ├── Menu/                   # Menu-related components or logic<br>
+│   ├── PAGE/                   # Individual pages for specific content<br>
+│   │   ├── AboutUs/<br>
+│   │   ├── Accessories/<br>
+│   │   ├── Bedding/<br>
+│   │   ├── Blinds/<br>
+│   │   ├── ContactUs/<br>
+│   │   ├── Curtains/<br>
+│   │   ├── ReadyMadeCurtains/<br>
+│   │   ├── Shop/<br>
+│   │   └── Wallpapers/<br>
+│   ├── Pages/                  # Likely additional pages or routing logic<br>
+│   ├── App.css                 # Global styles for the application<br>
+│   ├── App.jsx                 # Main app component<br>
+│   ├── index.css               # Index-level CSS<br>
+│   ├── main.jsx                # Entry point for React application<br>
+├── .gitignore                  # Git ignore file<br>
+├── eslint.config.js            # ESLint configuration<br>
+├── index.html                  # Main HTML file<br>
+├── package-lock.json           # Dependency lock file for npm<br>
+├── package.json                # Project metadata and dependencies<br>
+├── README.md                   # Project documentation<br>
+└── vite.config.js              # Vite configuration file<br>
 
 Hosting
 the hosting of this project is done with gh pages and a custom domain 
